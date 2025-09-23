@@ -4,8 +4,7 @@ class Solution(object):
         carry = 0
 
         while l1 or l2 or carry:
-            carry, val = divmod((l1.val if l1 else 0) + 
-                                (l2.val if l2 else 0) + carry, 10)
+            carry, val = divmod((l1.val if l1 else 0) + (l2.val if l2 else 0) + carry, 10)
             current.next = ListNode(val)
             current = current.next
             l1 = l1.next if l1 else None
