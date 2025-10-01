@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Perumal215/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Perumal215/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Perumal215/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Perumal215/leetcodeproblems/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Perumal215/leetcodeproblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Perumal215/leetcodeproblems/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Perumal215/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
