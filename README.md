@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Perumal215/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Perumal215/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0015-3sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Perumal215/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Perumal215/leetcodeproblems/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
