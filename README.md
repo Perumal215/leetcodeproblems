@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Perumal215/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Perumal215/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Perumal215/leetcodeproblems/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Perumal215/leetcodeproblems/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Perumal215/leetcodeproblems/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Perumal215/leetcodeproblems/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
