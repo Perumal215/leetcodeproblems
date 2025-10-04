@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Perumal215/leetcodeproblems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Perumal215/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Perumal215/leetcodeproblems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Perumal215/leetcodeproblems/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Perumal215/leetcodeproblems/tree/master/0133-clone-graph) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Perumal215/leetcodeproblems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
