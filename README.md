@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Perumal215/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/Perumal215/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Perumal215/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
