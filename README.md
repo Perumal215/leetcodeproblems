@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Perumal215/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Perumal215/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Hash Table
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Perumal215/leetcodeproblems/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
