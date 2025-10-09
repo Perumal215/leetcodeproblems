@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Perumal215/leetcodeproblems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Perumal215/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Perumal215/leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Perumal215/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Perumal215/leetcodeproblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Perumal215/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Perumal215/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Perumal215/leetcodeproblems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Perumal215/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Perumal215/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Perumal215/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Perumal215/leetcodeproblems/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Perumal215/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Perumal215/leetcodeproblems/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Perumal215/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
