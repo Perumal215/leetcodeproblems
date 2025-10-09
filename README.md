@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Perumal215/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Perumal215/leetcodeproblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
