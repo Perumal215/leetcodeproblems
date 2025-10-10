@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Perumal215/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Perumal215/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Perumal215/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Perumal215/leetcodeproblems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Perumal215/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Perumal215/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Perumal215/leetcodeproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Perumal215/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Perumal215/leetcodeproblems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Perumal215/leetcodeproblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Perumal215/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
