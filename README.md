@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Perumal215/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Perumal215/leetcodeproblems/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Perumal215/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Perumal215/leetcodeproblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Perumal215/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Perumal215/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
