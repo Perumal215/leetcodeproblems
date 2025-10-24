@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Perumal215/leetcodeproblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Perumal215/leetcodeproblems/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Perumal215/leetcodeproblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Perumal215/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Perumal215/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Perumal215/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Perumal215/leetcodeproblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Perumal215/leetcodeproblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Perumal215/leetcodeproblems/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Perumal215/leetcodeproblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Perumal215/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Perumal215/leetcodeproblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
