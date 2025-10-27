@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Perumal215/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Perumal215/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Perumal215/leetcodeproblems/tree/master/0724-find-pivot-index) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Perumal215/leetcodeproblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Perumal215/leetcodeproblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Perumal215/leetcodeproblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Perumal215/leetcodeproblems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Perumal215/leetcodeproblems/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Perumal215/leetcodeproblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Perumal215/leetcodeproblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
