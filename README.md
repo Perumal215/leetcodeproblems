@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Perumal215/leetcodeproblems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Perumal215/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Perumal215/leetcodeproblems/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Perumal215/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Perumal215/leetcodeproblems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Perumal215/leetcodeproblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Perumal215/leetcodeproblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Perumal215/leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Perumal215/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Perumal215/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Perumal215/leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Perumal215/leetcodeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Perumal215/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Perumal215/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Perumal215/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Perumal215/leetcodeproblems/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Perumal215/leetcodeproblems/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
