@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Perumal215/leetcodeproblems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Perumal215/leetcodeproblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Perumal215/leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Perumal215/leetcodeproblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Perumal215/leetcodeproblems/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Perumal215/leetcodeproblems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Perumal215/leetcodeproblems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Perumal215/leetcodeproblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Perumal215/leetcodeproblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Perumal215/leetcodeproblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Perumal215/leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Perumal215/leetcodeproblems/tree/master/0268-missing-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Perumal215/leetcodeproblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Perumal215/leetcodeproblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Perumal215/leetcodeproblems/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/Perumal215/leetcodeproblems/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
